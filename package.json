@@ -1,0 +1,26 @@
+{
+  "name": "storagebase",
+  "version": "1.0.1",
+  "description": "Local JSON database stored in local storage and allows for safe usage in vite development environment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaron-meche/storagebase.git"
+  },
+  "keywords": [
+    "storage",
+    "database",
+    "local",
+    "svelte"
+  ],
+  "author": "Aaron Meche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaron-meche/storagebase/issues"
+  },
+  "homepage": "https://github.com/aaron-meche/storagebase#readme"
+}
